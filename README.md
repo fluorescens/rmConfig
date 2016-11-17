@@ -18,4 +18,4 @@ Follow the linux instructions for setting up Django-Python. Digitalocean does an
  This is an older freeware version of a more in depth service I've build and deployed. It is mostly for review and tweaking purposes so some features are intentionally left very light or absent. If you see any major issues with the code at hand or wish to propose an improvement, let me know at james@leppek.us. 
  
 # Deployment:
- Deployment and configuration of the full service can be discussed at james@leppek.us
+ Deployment and configuration of the full service can be discussed at jamesl@leppek.us 
