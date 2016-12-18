@@ -15,7 +15,7 @@ I want to remotely be able to control the power to my home security system, incl
 Follow the linux instructions for setting up Django-Python. Digitalocean does an amazing writeup of getting going on CentOS7. 
 
 # Change Propositions:
- This is an older freeware version of a more in depth service I've build and deployed. It is mostly for review and tweaking purposes so some features are intentionally left very light or absent. If you see any major issues with the code at hand or wish to propose an improvement, let me know at james@leppek.us. 
+ This is an older freeware version of a more in depth service I've build and deployed. It is mostly for review and tweaking purposes so some features are intentionally left very light or absent. If you see any major issues with the code at hand or wish to propose an improvement, let me know at jamesl@leppek.us. 
  
 # Deployment:
  Deployment and configuration of the full service can be discussed at jamesl@leppek.us 
